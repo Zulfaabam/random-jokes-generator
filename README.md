@@ -1,5 +1,9 @@
 # Random Jokes Generator
 
+## Screenshot
+
+![](./screenshot.png)
+
 ## Links
 
 - Live Site URL: [Live site](https://your-live-site-url.com)
